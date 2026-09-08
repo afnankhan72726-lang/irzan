@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64dd091922636bf4a95927e11bd1d83d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268863
+  packageName: Settings & Options Menu Creator | FREE - Lite Version
+  packageVersion: 1.6.8
+  assetPath: Packages/com.citrion.settings-menu-creator/Presets/ResourcesCreatorProfile/RCP_UGUI_Providers_Default_ToggleAsSwitch.preset
+  uploadId: 988200

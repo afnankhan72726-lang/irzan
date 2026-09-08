@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 89a0cefdcfce30c45a199526206fba13
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268863
+  packageName: Settings & Options Menu Creator | FREE - Lite Version
+  packageVersion: 1.6.8
+  assetPath: Packages/com.citrion.settings-menu-creator/Presets/ScriptableInputElementProvider/UI
+    Toolkit/From UXML/Default/Provider_UIT_FromUXML_Dropdown_Default.preset
+  uploadId: 988200

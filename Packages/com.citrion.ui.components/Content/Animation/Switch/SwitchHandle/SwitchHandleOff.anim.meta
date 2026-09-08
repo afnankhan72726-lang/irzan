@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c406b5a20021bcb4c889a80e84f1b2c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268863
+  packageName: Settings & Options Menu Creator | FREE - Lite Version
+  packageVersion: 1.6.8
+  assetPath: Packages/com.citrion.ui.components/Content/Animation/Switch/SwitchHandle/SwitchHandleOff.anim
+  uploadId: 988200

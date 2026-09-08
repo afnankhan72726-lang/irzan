@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e313eefc774d8da42ae22667c14e4b31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268863
+  packageName: Settings & Options Menu Creator | FREE - Lite Version
+  packageVersion: 1.6.8
+  assetPath: Packages/com.citrion.settings-menu-creator/Scripts/Runtime/Localization/UI
+    Toolkit/LocalizationManipulator_Label.cs
+  uploadId: 988200
