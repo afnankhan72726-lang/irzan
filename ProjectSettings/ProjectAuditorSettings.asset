@@ -1,36 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &1
-MonoBehaviour:
-  m_ObjectHideFlags: 53
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor.ProjectAuditorModule:Unity.ProjectAuditor.Editor:ProjectAuditorSettings
-  Rules:
-    rules: []
-  DiagnosticParams:
-    paramsStack:
-    - PlatformGroup:
-        m_String: Unknown
-      m_SerializedParams:
-      - Key: SpriteAtlasEmptySpaceLimit
-        Value: 50
-      - Key: StreamingAssetsFolderSizeLimit
-        Value: 50
-      - Key: TextureStreamingMipmapsSizeLimit
-        Value: 4000
-      - Key: StreamingClipThresholdBytes
-        Value: 218294
-      - Key: LongDecompressedClipThresholdBytes
-        Value: 204800
-      - Key: LongCompressedMobileClipThresholdBytes
-        Value: 204800
-      - Key: LoadInBackGroundClipSizeThresholdBytes
-        Value: 204800
-    CurrentParamsIndex: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf44dc7e72b2fd3110f8834c18fe632a203c898d7303601b2201b67b7d18dc9
+size 1036
